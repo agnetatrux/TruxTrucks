@@ -1,5 +1,5 @@
-- name: Avoimet haut
-  link: /pricing/
+- name: Avoimet työpaikat
+  link: /avoimet_tyopaikat/
   new_window: false
   highlight: false
 - name: Blogi
