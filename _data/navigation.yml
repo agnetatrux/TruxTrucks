@@ -2,10 +2,6 @@
   link: /avoimet_tyopaikat/
   new_window: false
   highlight: false
-- name: Blogi
-  link: /blog/
-  new_window: false
-  highlight: false
 - name: Tarinamme
   link: /about/
   new_window: false

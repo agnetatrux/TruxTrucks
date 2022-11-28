@@ -1,7 +1,7 @@
 ---
-name: Tom Wilson
-position: CTO
+name: Anna Anteeksi
+position: Myyntiassistentti
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 twitter: CloudCannonApp
-blurb: Tom likes to travel and has visited over 50 countries.
+blurb: Anna on entinen curlingin ja jääkiekon maailmanmestari.
 ---
