@@ -1,39 +1,24 @@
 - links:
   - name: Avoimet työpaikat
     link: /avoimet_tyopaikat/
-  - name: Blog
-    link: /blog/
-  - name: About
+  - name: Tarinamme
     link: /about/
-  - name: Contact
+  - name: Ota yhteyttä
     link: /contact/
 - links:
-  - name: Login
+  - name: Naamakirja
     link: /
-    new_window: true
-  - name: Sign Up
-    link: /
-    new_window: true
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
-- links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
     new_window: true
     social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/cloudcannon/
+  - name: Tviitter
+    link: /
     social_icon: Twitter
     new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
+  - name: SinäTuubi
+    link: /
     social_icon: YouTube
     new_window: true
-  - name: RSS
-    link: /feed.xml
+  - name: SSR
+    link: /
     social_icon: RSS
     new_window: false
